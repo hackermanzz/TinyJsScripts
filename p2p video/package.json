@@ -1,0 +1,17 @@
+{
+  "name": "p2p-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^11.6.3",
+    "simple-peer": "^9.7.2",
+    "watchify": "^3.11.1"
+  }
+}
